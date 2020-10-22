@@ -19,7 +19,7 @@ button {
   border: 1px solid #1a202c;
   padding: 5px;
   border-radius: 5px;
-  background: #02af12;
+  background: #dde00b;
 }
 
 button[disabled] {
@@ -64,7 +64,7 @@ button[disabled] {
 section.pengguna {
   color: white;
   right:20px;
-  background: #202020;
+  background: #21cf2d;
   align-content:right;
 }
 
